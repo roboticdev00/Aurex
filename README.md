@@ -5,9 +5,13 @@ Our Jewelry Management System is an e-commerce platform designed for selling sty
 
 # Technologies used
 HTML
+
 CSS (Tailwind)
+
 Javascript
+
 PHP (OOP + MySQLi Prepared Statements)
+
 MySQL
 
 # Features
