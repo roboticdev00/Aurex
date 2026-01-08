@@ -16,6 +16,7 @@ MySQL
 
 # Admin Login (Sample Credentials)
 Email: juarez.ephraim.charles@gmail.com
+
 Password: "Password is stored in the database seeds."
 
 # Project Structure
