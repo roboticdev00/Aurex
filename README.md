@@ -75,7 +75,7 @@ Right-click and choose "PHP Server: Serve Project"
 
 
 # Admin Login (Sample Credentials)
-Email: juarez.ephraim.charles@gmail.com
+Email: rebejoeagriam@yahoo.com
 
 Password: "Password is stored in the database seeds."
 
