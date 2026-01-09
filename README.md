@@ -1,7 +1,7 @@
 # Aurex
 
 # Jewelry Management System
-Our Jewelry Management System is an e-commerce platform designed for selling stylish jewelry. The system enables customers to browse and purchase products online, including earrings, necklaces, bracelets, and rings. It provides an easy-to-use interface for customers and efficient management of products, orders, and sales for administrators.
+Our Jewelry Management System is an e-commerce platform designed for selling stylish jewelry. The system enables customers to browse and purchase a wide range of products online, including earrings, necklaces, bracelets, and rings. It provides an easy-to-use interface for customers and efficient management of products, orders, and sales for administrators.
 
 # Technologies used
 HTML
@@ -15,6 +15,31 @@ PHP (OOP + MySQLi Prepared Statements)
 MySQL
 
 # Features
+
+User registration and login
+
+Product catalog (earrings, necklaces, bracelets, rings)
+
+Product search and category filtering
+
+Product details with images and prices
+
+Shopping cart management
+
+Secure checkout and order placement
+
+Payment processing
+
+Order tracking and order history
+
+Customer profile management
+
+Admin product management (add, update, delete items)
+
+Inventory management
+
+Sales and order reports
+
 
 # Installation Instructions
 
