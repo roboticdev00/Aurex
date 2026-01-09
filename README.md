@@ -106,47 +106,29 @@ Groupname: Aurex
 <br>
 <br>      
 
-Member: Agriam, Rebejoe
+## Team Members
 
-Course: BS Information Technology
+### Project Manager
+- Juarez, Ephraim Charles  
+  Course: BS Information Technology
 
-Role: Senior System Developer <br>
+### Assistant Project Manager
+- Ganchoon, Edrian John  
+  Course: BS Information Technology
 
+### Senior System Developer
+- Agriam, Rebejoe  
+  Course: BS Information Technology
 
-Member: Faraon, Matt Laurence
+### Junior System Developer
+- Vanzuela, John Mark  
+  Course: BS Information Technology
 
-Course: BS Information Technology
+### Frontend Developer
+- Faraon, Matt Laurence  
+  Course: BS Information Technology
 
-Role: Frontend Developer
-<br>
-
-Member: Ganchoon, Edrian John
-
-Course: BS Information Technology
-
-Role: Assistant Project Manager
-<br>
-
-
-Member: Juarez, Ephraim Charles
-
-Course: BS Information Technology
-
-Role: Project Manager
-<br>
-
-
-Member: Jamera, John Eduard
-
-Course: BS Information Technology
-
-Role: Web Designer
-<br>
-
-
-Member: Vanzuela, John Mark
-
-Course: BS Information Technology
-
-Role: Junior System Developer
+### Web Designer
+- Jamera, John Eduard  
+  Course: BS Information Technology
 
