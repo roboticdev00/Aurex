@@ -42,6 +42,37 @@ Sales and order reports
 
 
 # Installation Instructions
+# Clone repository
+Install Git
+
+Open terminal in VS Code
+
+Then paste this "https://github.com/roboticdev00/Aurex.git"
+
+Transfer the folder into htdocs
+
+# Import SQL file
+Install XAMPP
+
+Start Apache and MySQL
+
+Go to the Admin of MySQL
+
+Create a new database with the name "jewelry_db"
+
+Go to jewelry_db and import the database file fromthe  db folder of jewelry
+
+# Configure database connection - Database connection has already been configured
+
+# Start local server
+Open the jewelry folder from htdocs
+
+Start Apache and MySQL on XAMPP
+
+Open "index_user.php"
+
+Right-click and choose "PHP Server: Serve Project"
+
 
 # Admin Login (Sample Credentials)
 Email: juarez.ephraim.charles@gmail.com
