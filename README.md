@@ -82,6 +82,7 @@ Password: "Password is stored in the database seeds."
 ## Project Structure
 
 Jewelry
+
 ├─ assets           (Images)
 
 ├─ db               (Database connection)
