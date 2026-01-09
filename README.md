@@ -110,40 +110,35 @@ Member: Agriam, Rebejoe
 
 Course: BS Information Technology
 
-Role: Senior System Developer
-
+Role: Senior System Developer <br>
 
 
 Member: Faraon, Matt Laurence
 
 Course: BS Information Technology
 
-Role: Frontend Developer
-
+Role: Frontend Developer <br>
 
 
 Member: Ganchoon, Edrian John
 
 Course: BS Information Technology
 
-Role: Assistant Project Manager
-
+Role: Assistant Project Manager <br>
 
 
 Member: Juarez, Ephraim Charles
 
 Course: BS Information Technology
 
-Role: Project Manager
-
+Role: Project Manager <br>
 
 
 Member: Jamera, John Eduard
 
 Course: BS Information Technology
 
-Role: Web Designer
-
+Role: Web Designer <br>
 
 
 Member: Vanzuela, John Mark
