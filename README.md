@@ -53,7 +53,7 @@ Password: "Password is stored in the database seeds."
 # Developer information
 
 Groupname: Aurex
-
+<br>
 
 Member: Agriam, Rebejoe
 
@@ -61,40 +61,35 @@ Course: BS Information Technology
 
 Role: Senior System Developer
 
-
-
+<br>
 Member: Faraon, Matt Laurence
 
 Course: BS Information Technology
 
 Role: Frontend Developer
 
-
-
+<br>
 Member: Ganchoon, Edrian John
 
 Course: BS Information Technology
 
 Role: Assistant Project Manager
 
-
-
+<br>
 Member: Juarez, Ephraim Charles
 
 Course: BS Information Technology
 
 Role: Project Manager
 
-
-
+<br>
 Member: Jamera, John Eduard
 
 Course: BS Information Technology
 
 Role: Web Designer
 
-
-
+<br>
 Member: Vanzuela, John Mark
 
 Course: BS Information Technology
