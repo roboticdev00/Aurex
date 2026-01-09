@@ -83,12 +83,19 @@ Password: "Password is stored in the database seeds."
 
 Jewelry
 ├─ assets           (Images)
+
 ├─ db               (Database connection)
+
 ├─ images           (Images)
+
 ├─ vendor           (Composer and PHPGangsta libraries)
+
 ├─ Webpages         (Home, Products, Cart, Checkout, User, Product, Order, API calls and data fetching)
+
 ├─ Composer.json    (Project dependencies and scripts)
+
 ├─ Composer.lock    (Locked versions of dependencies)
+
 └─ Readme.md        (Project documentation)
 
 
