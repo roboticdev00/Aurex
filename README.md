@@ -60,7 +60,7 @@ Go to the Admin of MySQL
 
 Create a new database with the name "jewelry_db"
 
-Go to jewelry_db and import the database file fromthe  db folder of jewelry
+Go to jewelry_db and import the database file from the  db folder of jewelry
 
 # Configure database connection - Database connection has already been configured
 
@@ -79,13 +79,24 @@ Email: juarez.ephraim.charles@gmail.com
 
 Password: "Password is stored in the database seeds."
 
-# Project Structure
+## Project Structure
+
+Jewelry
+├─ assets           (Images)
+├─ db               (Database connection)
+├─ images           (Images)
+├─ vendor           (Composer and PHPGangsta libraries)
+├─ Webpages         (Home, Products, Cart, Checkout, User, Product, Order, API calls and data fetching)
+├─ Composer.json    (Project dependencies and scripts)
+├─ Composer.lock    (Locked versions of dependencies)
+└─ Readme.md        (Project documentation)
+
 
 # Developer information
 
 Groupname: Aurex
 <br>
-<br>
+<br>      
 
 Member: Agriam, Rebejoe
 
