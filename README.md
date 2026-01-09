@@ -118,14 +118,14 @@ Member: Faraon, Matt Laurence
 Course: BS Information Technology
 
 Role: Frontend Developer
- <br>
+<br>
 
 Member: Ganchoon, Edrian John
 
 Course: BS Information Technology
 
 Role: Assistant Project Manager
- <br>
+<br>
 
 
 Member: Juarez, Ephraim Charles
@@ -133,7 +133,7 @@ Member: Juarez, Ephraim Charles
 Course: BS Information Technology
 
 Role: Project Manager
- <br>
+<br>
 
 
 Member: Jamera, John Eduard
@@ -141,7 +141,7 @@ Member: Jamera, John Eduard
 Course: BS Information Technology
 
 Role: Web Designer
- <br>
+<br>
 
 
 Member: Vanzuela, John Mark
