@@ -47,7 +47,7 @@ Install Git
 
 Open terminal in VS Code
 
-Then paste this "https://github.com/roboticdev00/Aurex.git"
+Then paste this "git clone https://github.com/roboticdev00/Aurex.git"
 
 Transfer the folder into htdocs
 
