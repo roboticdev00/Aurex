@@ -1,9 +1,9 @@
 # Aurex
 
-# Jewelry Management System
+## Jewelry Management System
 Our Jewelry Management System is an e-commerce platform designed for selling stylish jewelry. The system enables customers to browse and purchase a wide range of products online, including earrings, necklaces, bracelets, and rings. It provides an easy-to-use interface for customers and efficient management of products, orders, and sales for administrators.
 
-# Technologies used
+## Technologies used
 HTML
 
 CSS (Tailwind)
@@ -14,7 +14,7 @@ PHP (OOP + MySQLi Prepared Statements)
 
 MySQL
 
-# Features
+## Features
 
 User registration and login
 
@@ -41,8 +41,8 @@ Inventory management
 Sales and order reports
 
 
-# Installation Instructions
-## Clone repository
+## Installation Instructions
+### Clone repository
 Install Git
 
 Open terminal in VS Code
@@ -51,7 +51,7 @@ Then paste this "https://github.com/roboticdev00/Aurex.git"
 
 Transfer the folder into htdocs
 
-## Import SQL file
+### Import SQL file
 Install XAMPP
 
 Start Apache and MySQL
@@ -62,9 +62,9 @@ Create a new database with the name "jewelry_db"
 
 Go to jewelry_db and import the database file from the  db folder of jewelry
 
-## Configure database connection - Database connection has already been configured
+### Configure database connection - Database connection has already been configured
 
-## Start local server
+### Start local server
 Open the jewelry folder from htdocs
 
 Start Apache and MySQL on XAMPP
@@ -74,12 +74,12 @@ Open "index_user.php"
 Right-click and choose "PHP Server: Serve Project"
 
 
-# Admin Login (Sample Credentials)
+## Admin Login (Sample Credentials)
 Email: rebejoeagriam@yahoo.com
 
 Password: "Password is stored in the database seeds."
 
-## Project Structure
+### Project Structure
 
 Jewelry
 
@@ -100,31 +100,31 @@ Jewelry
 └─ Readme.md        (Project documentation)
 
 
-# Developer information
+## Developer information
 
 Groupname: Aurex
 <br>
 <br>      
 
-## Team Members
+### Team Members
 
-### Project Manager
+#### Project Manager
 - Juarez, Ephraim Charles  
   Course: BS Information Technology
 
-### Assistant Project Manager
+#### Assistant Project Manager
 - Ganchoon, Edrian John  
   Course: BS Information Technology
 
-### Senior System Developer
+#### Senior System Developer
 - Agriam, Rebejoe  
   Course: BS Information Technology
 
-### Junior System Developer
+#### Junior System Developer
 - Vanzuela, John Mark  
   Course: BS Information Technology
 
-### Frontend Developer
+#### Frontend Developer
 - Faraon, Matt Laurence  
   Course: BS Information Technology
 
